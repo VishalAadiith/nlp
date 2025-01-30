@@ -1,0 +1,276 @@
+query,response_before,response_after,reward_before,reward_after,reward_diff
+"<s>
+Summarize the following conversation.
+
+#Person1#: Judy, what is everybody talking about?
+#Person2#: Haven't you heard? Richard was fired by our manager.
+#Person1#: You're kidding. It can't be true.
+#Person2#: Believe it or not. Everybody is talking about it in the company.
+#Person1#: Really? I'm surprised.
+#Person2#: Me too.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.Example:#Person1#: Judy, what is everybody talking about?#Person2#: Haven't you heard? Richard was fired by our manager.#Person 1#: You're kidding. It can't be true. I'm not going to lie to you, are you?#Theater#Person 2#: Believe it or not. Everybody is talking about it in the company.#Theaters#Person3#: Really? I'm surprised.# Theaters*#Person4#: Yeah.#Podcast#Person5#Summary:</s>","</s><s>Summarize the following conversation.1.7.17#Person1#: Judy, what is everybody talking about?2.8#Person2#: Haven't you heard? Richard was fired by our manager.3.9#Person 1#: You're kidding. It can't be true.4.10#Person 2#: Believe it or not. Everybody is talking about it in the company.5.9 #Person1*: Really? I'm surprised.6.9.11.11#PersonTwo#: Me too.7.9%Summary:</s>",0.9630430340766907,1.7973672151565552,0.8343241810798645
+"<s>
+Summarize the following conversation.
+
+#Person1#: I'm forming a music band.
+#Person2#: Do you already know how to play an instrument?
+#Person1#: Uh... Yeah! I'Ve told you a thousand times that I'm learning to play the drums. Now that I know how to play well, I would like to form a rock band.
+#Person2#: Aside from yourself, who are the other members of the band?
+#Person1#: We have a guy who plays guitar, and another who plays bass. Although we still haven't found anyone to be our singer. You told me that you had some musical talent, right?
+#Person2#: Yes, I'm a singer.
+#Person1#: Perfect. So you can audition this weekend here at my house.
+#Person2#: Great! Wait here? You don't have enough room for the amplifiers, microphones or even your drums! By the way where do you keep them or practice?
+
+Summary:
+</s>","<s>Summarize the following conversation._____________________________________________________________________________________________#Person1#: I'm forming a music band. I'm going to form a rock band._______________________________________________________________________________#Person2#: Do you already know how to play an instrument?_____________________________________________________________________________-__________________________________________________________________________-_______________________________________________________________________________________________-_____________________________________________________________________________________-_-#Person 1#: Uh... Yeah! I'Ve told you a thousand times that I'm learning to play the drums. Now that I knowHow to play well, I would like to formA rock band!___________________________________________________________________________#Person 2#: Aside from yourself, who are the other members of the band?___________________________________________________________________________________________-_______________________________________________________________________-_-*#Person3# Person1: We have a guy who plays guitar, and another who plays bass. Although we still haven't found anyone to</s>","<s>Summarize the following conversation.Introduction:#Person1#: I'm forming a music band. I'm going to form a rock band.#Person2#: Do you already know how to play an instrument?#Person 1#: Uh... Yeah! I'Ve told you a thousand times that I'm learning to play the drums. Now that I feel that I can play well enough to do that, I would like to form an alternative rock band, as well as a band. #Person3#Person4#: And what about the band? #Person5#Person6#Person7#Person8#: Aside from yourself, who are the other members of the band, right?# Person4#Person9#Person10#Person11#Person12#: We have a guy who plays guitar,</s>",2.0408427715301514,2.7522459030151367,0.7114031314849854
+"<s>
+Summarize the following conversation.
+
+#Person1#: I would like to order some internet today.
+#Person2#: What kind would you like?
+#Person1#: What kind of internet is there?
+#Person2#: You can get DEL or dial-up.
+#Person1#: Which of those two is best?
+#Person2#: I would recommend DEL.
+#Person1#: So that one better?
+#Person2#: It's better because it doesn't tie up the phone.
+#Person1#: What do you mean by that?
+#Person2#: DEL isn't connected through your phone line, but dial-up is.
+#Person1#: So then I can't use my phone if I'm on the internet?
+#Person2#: That's correct. With DEL you can do both.
+
+Summary:
+</s>","<s>Summarize the following conversation. carbohyd#Person1#: I would like to order some internet today.�エ#Person2#: What kind would you like?�#Person3#: Well, you can get DEL or dial-up. exting#Person 1#: Which of those two is better?���▬#Person4#: That's right. Palestin#Person5#: And what kind of internet is there? membr#Person6#: This one is best.@@@@@@@@#Person9#Person11#. That's correct.住#Person8#: So that one better?󋕕ݠ#################Person12#: It's better because it doesn't tie up the phone.�α#Person21#Person</s>","<s>Frequently Asked QuestionsSummarize the following conversation.TextColor#Person1#: I would like to order some internet today. unden@@@@#Person2#: What kind would you like? unden@@@@@@@@#Person3#: You can get DEL or dial-up. undenminecraft#Person4#: And what kind of internet is there? unden\"":#Person5#: Which of those are better? undenparalleled#Person6#: That's the best. undenbda#Person7#: Denial. unden@@@@@@@@##Person1: Which one is best? unden�#Person 2#: The DEL one. undenbuquerque#Person 1#: So that one better?�=#Person2: It's better because it doesn't tie up the phone. unden#############################################Person</s>",2.0551884174346924,2.746889114379883,0.6917006969451904
+"<s>
+Summarize the following conversation.
+
+#Person1#: Where shall I register, please?
+#Person2#: Here. Do you have a registration card?
+#Person1#: Yes. Here you are.
+#Person2#: Please register your information here and pay for it. And I'll make a medical record for you.
+#Person1#: OK. How much do I need to pay for the registration?
+#Person2#: Please pay ten yuan for the registration.
+#Person1#: Here is my money.
+#Person2#: This is your registration card. Please don't lose it and bring it whenever you come.
+#Person1#: Yes, I will. But can you tell me how to get to the consulting room?
+#Person2#: Go down this way until you come to the drugstore. Make a left turn and it's just there.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.#Person1#: Where shall I register, please?@##Person2#: Here. Do you have a registration card?@#@#@#@#$@#@#&#Person 1#: Yes. Here you are.@#@#$@#@#%@#&$@#&@#&@#$%@#$&@#@&@#$$&$%@#%$@#$%$&@#Person two#: Please register your information here and pay for it. And I'll make a medical record for you.@##@&$%%$$@&%@#@#^#Person3#: OK. How much do I need to pay for the registration?@#$@$&&$&^$&%$$$##Person4#: That's right. Here is my money.@#$#Person5#@$$/$&$$@#@$%&$@@$@%$%#$#Person: Yes, I will. But can you tell me how to get to the consulting room?@#%%#$&#$#?#Person 2#: Go down this way until you come to the drugstore. Make a left turn and it's just there.@#%#Summary:</s>","</s><s>Summarize the following conversation.1. Where shall I register, please?#Person1#: Here. What is my registration card?1. How much do I need to pay for the registration?2. Where is my money?3. Where are my registration cards?1#Person2#: Yes. Here you are.2. How do I register my information here?3#Person 2#: Please register your information here and pay for it. And I'll make a medical record for you.4. How can I pay for my registration?5. How many yuan?6. What's the registration fee?7.5.5#Person4#Person, please.6.5%7.7%7#Person.7.8%7%9%7: This is your registration card. Please don't lose it and bring it whenever you come.8.6%10%9#Person 1#: No, I will. But can you tell me how to get to the consulting room?8.7%.7.9%8%9.7%%9%10.7 %10%Summary:</s>",1.2584364414215088,1.737861156463623,0.47942471504211426
+"<s>
+Summarize the following conversation.
+
+#Person1#: So how did you like the restaurant?
+#Person2#: Actually, it could have been better.
+#Person1#: What didn't you like about it?
+#Person2#: It is a new restaurant. I don't think they have their act together yet.
+#Person1#: What did you think about the food?
+#Person2#: I felt that the food was pretty mediocre.
+#Person1#: The service wasn't that great, either.
+#Person2#: I agree. The service was not good.
+#Person1#: Do you think that you want to try this restaurant another time?
+#Person2#: No, I think that I've had enough of this restaurant.
+
+Summary:
+</s>","</s><s>Summarize the following conversation. This conversation was held in the following way:#Person1#: So how did you like the restaurant?#Person2#: Actually, it could have been better.#Person3#: What was the food like? #Person1 #: What didn't you like about it?# Person3#Person 2#: It is a new restaurant. I don't think they have their act together yet. #Person4#Person5#Person6#Person7#Person8# Person1: What did you think about the food?@##Person9#Person10#Person11#Person12#Person16#Person32#: I felt that the food was pretty mediocre.@#@#@##$@#@#^@#@#@@#@#$@#@#%@#@#&@#@#$@#$$@#$@#$#$@@#$@#$%@#@$#Person 1#: Do you think that you want to try this restaurant another time?@#@##@#$###@#Summary:</s>","</s><s>Summarize the following conversation.Example 1:#Person1#: So how did you like the restaurant?#Person2#: Actually, it could have been better.#Person3#: What did you dislike about it? #Person4#: It is a new restaurant. I don't think that they have their act together yet. #Person5#Person6#Person7#Person: What was your favorite part about the restaurant, and what did you think about the food?##Person8#Person9#Person10#Person12#: I felt that the food was pretty mediocre.#Group3#Person 1#: The service wasn't that great, either. #Group4#Person5*@Group5*#Person4*@Person2: I agree. The service was not good.# Group4#@Group4*/Group5#@Person1: Do you think that you want to try this restaurant another time?#Group6#@group5#^Summary:Summary:</s>",2.0726397037506104,2.5359203815460205,0.46328067779541016
+"<s>
+Summarize the following conversation.
+
+#Person1#: Amanda, how do you like this peaked cap?
+#Person2#: Didn't you say you want to buy a top hat?
+#Person1#: But I think this one fits me Well. Why don't you try on the sombrero in black?
+#Person2#: I don't like caps at all.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.2. * * * #Person1#: Amanda, how do you like this peaked cap?#Person2#: Didn't you say you want to buy a top hat? #Person3#Person1: But I think this one fits me Well. Why don't you try on the sombrero in black?# Person3#: I don't like caps at all.#Person4#: And I like the cap!Summary:</s>","</s><s>2. The shoes.Summarize the following conversation.Example:#Person1#: Amanda, how do you like this peaked cap?#Person2#: Didn't you say you want to buy a top hat? #Person1 #: But I think this one fits me Well. Why don't you try on the sombrero in black?# Person3#: I don't like caps at all. #Person4#: What do you think? #Summary:</s>",1.9578216075897217,2.2978451251983643,0.3400235176086426
+"<s>
+Summarize the following conversation.
+
+#Person1#: Here is the final draft of our contract. I'm glad that we have reached an agreement on almost every term in our trade.
+#Person2#: Yes, it seems to me we have come quite a long way. However, let me take a close look at the final draft.
+#Person1#: Do you have some points to bring up?
+#Person2#: Well, everything we've discussed seems to be here.
+#Person1#: Yes, including a description of the shirts you want to purchase this time, the total amount of your order, the price for each piece, mode of payment, packaging, shipping time, insurance and compensation, claim and arbitration, and rights and duties for both sides. Are all the terms here satisfactory?
+#Person2#: I'll need a few minutes to check over my notes again on every detail. What about the quality standard?
+#Person1#: It is said that the sample 25 is the standard for others. It's complete. So would you like to sign the contract right now?
+
+Summary:
+</s>","<s>Summarize the following conversation.#Person1#: Here is the final draft of our contract. I'm glad that we have reached an agreement on almost every term in our trade. Are all the terms satisfactory to you?#Person2#: Yes, it seems to me we have come quite a long way. However, let me take a close look at the final Draft. What do you think it is?# Person1# and what do you have some points to bring up?#Permanent Statement:#Person 2#: Well, everything we've discussed seems to be here. What are the rest of the terms here?#Brief Summary:#Budget Summary:*Budget Statement*#Person 1#: Now, including a description of the shirts you want to purchase this time, the total amount of your order, the price for each piece, mode of payment, packaging, shipping time</s>","</s><s>Summarize the following conversation. The following is the final draft of our contract.#Person1#: Here is the preliminary draft. I'm glad that we have reached an agreement on almost every term in our trade. Are all the terms satisfactory?#Person2#: Yes, it seems to me we have come quite a long way. However, let me take a close look at the final Draft. What are the terms here?$10,000.00#Person 1#: Do you have some points to bring up?$20,000?$30,000!#Person 2#: Well, everything we've discussed seems to be here.$25,000…$40,000</s>",3.2865285873413086,3.5334737300872803,0.24694514274597168
+"<s>
+Summarize the following conversation.
+
+#Person1#: Today more and more families have personal computers. People have wider range of choice to communicate with the outside world.
+#Person2#: Right. With the establishment of Internet and a lot of web companies, people are getting more and more dependent on the web.
+#Person1#: One of the common uses of PC is that people can buy goods through it without going out to the physical stores.
+#Person2#: Can you tell me how it is done?
+#Person1#: If a customer is interested in some certain goods, he can ask the web company to have the specimen of the goods shown on the color screen, and then the customer can place an order online to the sales company. And then the goods you want will be delivered to your home. The service is perfect and the delivery is free of charge.
+#Person2#: I see. So great.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.#Person1#: What is the most common use of the PC?#Person2#: Today more and more families have personal computers. People have wider range of choice to communicate with the outside world. It is very easy to get information from the Internet. #Person1 #: Right. With the establishment of Internet and a lot of web companies, people are getting more and More dependent on the web. #person1##Person3#: One of the common uses of PC is that people can buy goods through it without going out to the physical stores.#person3#Person4#: Can you tell me how it is done?#person4#Person5#Person 1#: If a customer is interested in some certain goods, he can ask the web company to have the specimen of the goods shown on the color screen, and then the customer can place an order online to the sales company. And then the goods you want will be delivered to your home. The service is perfect and the delivery is free of charge.# Person4#Me: Yeah, right, right. # Person2##: I see. So great. #designer.Summary:</s>","</s><s>Summarize the following conversation.Contents show]#Person1#: Today more and more families have personal computers. People have wider range of choice to communicate with the outside world.#Person2#: Right. With the establishment of Internet and a lot of web companies, people are getting more and More dependent on the web.[</s>",3.2218830585479736,3.457329511642456,0.23544645309448242
+"<s>
+Summarize the following conversation.
+
+#Person1#: Could you help me, Sir? My flight got in 15 minutes ago. Everyone else has picked up the luggage but mine hasn't come through.
+#Person2#: I'm sorry, Madam, I'll go and find out if there is any more to come.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.#Person1#: Could you help me, Sir? My flight got in 15 minutes ago. Everyone else has picked up the luggage but mine hasn't come through. Please let me know if there is any more to come. #Person2#: I'm sorry, Madam, I'll go and find out if there are any more of you.##Person3#: Thank you.Summary:</s>","</s><s>Summarize the following conversation.#Person1#: Could you help me, Sir? My flight got in 15 minutes ago. Everyone else has picked up the luggage but mine hasn't come through. I don't know what to do. #Person2#: I'm sorry, Madam, I'll go and find out if there is any more to come. #Let's go.Summary:</s>",3.0065548419952393,3.228107452392578,0.22155261039733887
+"<s>
+Summarize the following conversation.
+
+#Person1#: Could you help me figure out how to look for a job?
+#Person2#: We have lots of options, what type of job do you need?
+#Person1#: I want to work in an office.
+#Person2#: Do you want to work part-time or full-time?
+#Person1#: I want to work full-time.
+#Person2#: We have binders with local job listings or you can make use of the computers. OK?
+#Person1#: I am confused a bit but I am sure that I can figure it out.
+#Person2#: If you make an appointment with a job counselor, they can also provide you with a lot of information. Do you want to see a counselor?
+#Person1#: No, I don't think I need to do that.
+#Person2#: Well, you know that this job center is here for your use, so help yourself. Good luck!
+
+Summary:
+</s>","</s><s>Summarize the following conversation. What is your job situation? What do you want to do with it? ****************************************************************************************#Person1#: Could you help me figure out how to look for a job? *********************************************************#Person2#: We have lots of options, what type of job do you need? ******************************** ****************************************************#Person 1#: I want to work in an office. ************************************************************#Person 2#: What type of office do you wish to work? ****************************************# Person2#.: Do you wants to work part-time or full-time? ********************************************# Person1#. Why? ********************************====#Person3#Person4#: Why do you have binders with local job listings or you can make use of the computers. OK? ************************************# Person4#Person5#Person6#Person7#Person10#Person9#Person8#Person11#Person12#: If you make an appointment with a job counselor, they can also provide you with a lot of information. Do you need to see a counselor?**************************************#Person13#Person14#Person15#Person16#Person17#Person18#Person21#Person22#: Well, you know that this job center is here for your use, so help yourself. Good luck! **************************************Summary: ***************************************</s>","</s><s>Summarize the following conversation._________________________________________@#Person1#: Could you help me figure out how to look for a job?_______________________________________________#Person2#: We have lots of options, what type of job do you need?_________________________________________________@$#Person 1#: I want to work in an office.__________________________________________________#Person 2#: Do you want to be part-time or full-time?___________________________________________________________#Person3#: No, I don't think I need to work part-part-time.____________________________________________________________#Person4#: Well, we have binders with local job listings or you can make use of the computers. OK?__________________________________________________________________________# Person1: I am confused a bit but I am sure that I can figure it out. ___________________________________________# Person2: If you make an appointment with a job counselor, they can also provide you with a lot of information. Do you need to see a counselor?_______________________________________#Friendly@@$@$@#$^$$$^^$@%%@#$$@#$%$#@$$@#@#$@%@#$%$@@#$#$$%#$@#@$%@#@#%$$!$##$#Summary:_______________________________________________________________</s>",2.1381421089172363,2.3323206901550293,0.19417858123779297
+"<s>
+Summarize the following conversation.
+
+#Person1#: How much are you asking for this?
+#Person2#: I'm offering them to you at 150 yuan a piece. Is that all right?
+#Person1#: Is tax already included in their price?
+#Person2#: Yes. Our price can't be matched.
+#Person1#: Would you consider a volume discount?
+#Person2#: If you buy 1, 000 or more, you'll get a 10 % discount.
+#Person1#: I'll accept your offer.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.===============================================================#Person1#: How much are you asking for this?==========================================================#Person2#: I'm offering them to you at 150 yuan a piece. Is that all right?=======================================================================================*#Person 1#: Is tax already included in their price?==============================# Person2#? Yes. Our price can't be matched.=========================================================#Person: Would you consider a volume discount?======================#Person 2#: If you buy 1, 000 or more, you'll get a 10 % discount.===========================#Nuclear======================*#Polar==============*** * * *Summary:======================================================</s>",</s><s>Summarize the following conversation. Summary: I'll accept your offer.Author: ----------------#Person1#: How much are you asking for this?Author:------------------------------------------------#Person2#: I'm offering them to you at 150 yuan a piece. Is that all right?Example:------------------------------------------------</s>,2.9055068492889404,3.025944232940674,0.1204373836517334
+"<s>
+Summarize the following conversation.
+
+#Person1#: It smells like an ashtray in here!
+#Person2#: Hi honey! What's wrong? Why do you have that look on your face?
+#Person1#: What's wrong? I thought we agreed that you were gonna quit smoking.
+#Person2#: No! I said I was going to cut down which is very different. You can't just expect me to go cold turkey overnight!
+#Person1#: Look, there are other ways to quit. You can try the nicotine patch, or nicotine chewing gum. We spend a fortune on cigarettes every month and now laws are cracking down and not allowing smoking in any public place. It's not like you can just light up like before.
+#Person2#: I know, I know. I am trying but, I don't have the willpower to just quit. I can't fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch! Please understand?
+#Person1#: Fine! I want a divorce!
+
+Summary:
+</s>","<s>Summarize the following conversation.#Person1#: I don't want to break up with you!#Person2#: It smells like an ashtray in here! I want to quit smoking right now!#Relationship#Person3#: Hi honey! What's wrong? Why do you have that look on your face?#Person4#: Well, I'm trying to quit. I want a divorce!#Husband#Person5#: What? What? I thought we agreed that you were gonna quit smoking.#Coffee#Person 2#: No! I said I was going to cut down which is very different. You can't just expect me</s>","<s>Summarize the following conversation.#Person1#: What's wrong with you?#Person2#: It smells like an ashtray in here!#Person3#: I don't want to smoke. I want to quit smoking. I really don't need to quit. I just want to cut down.* * * *#Person 2#: Hi honey! What is wrong? Why do you have that look on your face? I'm not going to quit, I'm just going to cut it down. # #Person3* **#Person4#: No! I said I was going tocut down which is very different. You can't just expect me to</s>",1.9356640577316284,1.944123387336731,0.008459329605102539
+"<s>
+Summarize the following conversation.
+
+#Person1#: Mom, I just finished my paper. Can you proofread it before I hand it in?
+#Person2#: Sure, let's take a look. Sweetie, this is terrific. Your ideas are so original.
+#Person1#: Thanks.
+#Person2#: I can tell you worked hard on it.
+#Person1#: I really did! I started thinking about what I wanted to say three weeks ago.
+#Person2#: Well, it was definitely worth all the time.
+#Person1#: Let's just hope my teacher agrees.
+
+Summary:
+</s>","<s>Summarize the following conversation.#Person1#: Mom, I just finished my paper. Can you proofread it before I hand it in?#Person2#: Sure, let's take a look. Sweetie, this is terrific. Your ideas are so original. I can't wait to see what you write next.***#Person 1#: Thanks. I really enjoyed it.* * *#Person 2#: I can tell you worked hard on it. * * *** ** * #Person1: I really did! I started thinking about what I wanted to say three weeks ago.# * *%*#* *%#PersonDiva#Person3#: Well, it was definitely worth all the time.** *</s>","<s>Summarize the following conversation.#Person1#: Mom, I just finished my paper. Can you proofread it before I hand it in?#Person2#: Sure, let's take a look. Sweetie, this is terrific. Your ideas are so original. I'm so proud of you.*#Person 1#: Thanks. I really appreciate it.* * *#Person 2#: I can tell you worked hard on it. I thought it was really good.** ** * #Person1: I really did! I started thinking about what I wanted to say three weeks ago.# * * **# * # #Person2 #: Well, it was definitely worth all the time.# # # # * * ~#Person</s>",3.016716480255127,3.0167155265808105,-9.5367431640625e-07
+"<s>
+Summarize the following conversation.
+
+#Person1#: Oh, my God! What's this?
+#Person2#: What?
+#Person1#: Look! This window is open.
+#Person2#: Did you open it before we left?
+#Person1#: Are you kidding? It's winter. Why would I open it?
+#Person2#: I don't know. Wait. Is this yours?
+#Person1#: No! Oh, my God! Someone has broken into the house.
+#Person2#: It looks that way. That's probably why the door wasn't locked when we came in.
+#Person1#: I locked it when I left though.
+#Person2#: Yes, but the robber broke in. Then, when he left, he left through the door. So it wasn't locked.
+#Person1#: I don't care about that, Allen! What did he steal? That's the question!
+#Person2#: Look around.
+#Person1#: The TV's still here.
+#Person2#: And your stereo too. So what did he steal? We have to go look upstairs.
+#Person1#: But what if someone's still up there?
+#Person2#: I don't think there will be. He left through the door, remember?
+
+Summary:
+</s>","<s>Summarize the following conversation.#Person1#: Oh, my God! What's this?#Person2#: What? What's the problem with this window, Allen?!#Person 1#: Look! This window is open. It's winter. Why would I open it before we left?$#Person3#: I don't know. Wait. Is this yours? $#Person4#: It's not yours.$# Person1# : I don’t know.Wait. Is it yours?$@Person3*#Person5#: No! It's yours</s>","<s>Summarize the following conversation.- Advertisement -In this conversation, the following is what we heard:2.9#Person1#: Oh, my God! What's this?- Advertisement *#Person2#: What? This window is open! - Advertisement -1.8#Person3#: Hey, Allen.2.8.9.1.1#Person: Did you open it before we left?‑ Advertisement -#Person 1#: Are you kidding? It's winter. Why would I open it?-, Advertisement - 1.8-1.3#Person 2#:</s>",1.941933512687683,1.9419324398040771,-1.0728836059570312e-06
+"<s>
+Summarize the following conversation.
+
+#Person1#: What can I do for you, madam?
+#Person2#: I'd like to buy a toy car for my son.
+#Person1#: How about this one?
+#Person2#: It looks nice. How much is it?
+#Person1#: They're three hundred dollars.
+#Person2#: Oh, I'm afraid it's too expensive. Can you show me something cheaper?
+#Person1#: OK, This one is one hundred and twenty. It's the cheapest here.
+#Person2#: OK, I'll take it. Here's the money.
+#Person1#: Thank you very much.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.#Person1#: What can I do for you, madam?#Person2#: I'd like to buy a toy car for my son. What do you want me to do for your son, Madam?""#Person 1#: How about this one? That's the cheapest here.$1,000#Person 2#: It looks nice. How much is it?$3,000$1.00#Person: They're three hundred dollars.$2,700$2.00$3.00?$2C$2#000$3C$1’: Oh, I'm afraid it's too expensive. Can you show me something cheaper?$4,000?$5,000~$5.00~$Person1: OK, This one is one hundred and twenty. It's the smartest here. $4,700~$6,700#Person3#: Thank you very much.$7,000Summary:</s>","</s><s>Summarize the following conversation.Example:#Person1#: What can I do for you, madam?#Person2#: I'd like to buy a toy car for my son. I want to buy him a car. What's the cost?#P#Person 1#: How about this one?$#Person 2#: It looks nice. How much is it?$*#Person3#: They're three hundred dollars.$*$**$Person2*: Oh, I'm afraid it's too expensive. Can you show me something cheaper?$$#The $*$The $#The$$The$#PThe$@The$&The$!$*@Person#: OK, This one is one hundred and twenty. It's the cheapest here.$$the$*The$%#Person($)#Person: Thank you very much.$3.00Summary:</s>",2.2888286113739014,2.2888262271881104,-2.384185791015625e-06
+"<s>
+Summarize the following conversation.
+
+#Person1#: Hello?
+#Person2#: Hello?
+#Person1#: Can I speak to Li Hong, please?
+#Person2#: Speaking.
+#Person1#: Hi, Li Hong. This is Alice.
+#Person2#: Hi, Alice. How are you?
+#Person1#: Not bad. Li Hong, I am sorry that I can't go to see Mrs. Brown with you tomorrow morning. My mother is ill. I must take care of her.
+#Person2#: I'm sorry to hear that. You'd better stay at home. After all, we can visit Mrs. Brown later
+#Person1#: OK. Bye - bye.
+#Person2#: Bye.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.CHAPTER 1#Person1#: Hello?665#Person2#: Hi?668#Person 1#: Can I speak to Li Hong, please?689#Person 2#: Speaking.666#Person3#: Thanks.698#Person4#: Hey.8687#Person5#Person6#Person7#Person8#Person10#Person11#Person9#Person12#: Good morning.681#Person16#Person17#Person18#Person20#Person25#Person21#Person24#Person26#Person27#Person31#Person28#Person46#Person32#: I'm sorry that I can't go to see Mrs. Brown with you tomorrow morning. My mother is ill. I must take care of her.797#Person22#Person73#Person72#Person80#Person81#Person76#Person88#Person91#Person87#Person86#Person89#Person92#Person82#Person83#Person99#Summary:</s>","</s><s>Summarize the following conversation.SPECTATOR:#Person1#: Hello?============================================================#Person2#: Hi?========================================================================================#Person 1#: Can I speak to Li Hong, please?==========================#Person 2#: Speaking.====================================================#Person4#: Yes, I'm fine.===========================#Person3#Person001#Person8#: No, Li Hong. This is Alice.====================&#Person9#Person10#Person12#Person14#Person16#Person17#Person18#Person20#Person21#Person25#Person27#Person31#Person36#Person5#: I'm sorry that I can't go to see Mrs. Brown with you tomorrow morning. My mother is ill. I must take care of her.============================&#^^^#Person28#Person30#Person32#: OK. Bye - bye.======================#Person29#Person35#Person42#Person48#Person65#Summary:============================</s>",1.8890831470489502,1.886767864227295,-0.0023152828216552734
+"<s>
+Summarize the following conversation.
+
+#Person1#: Let's take a coffee break, shall we?
+#Person2#: I wish I could, but I can't.
+#Person1#: What keeps you so busy? You've been sitting there for hours. You've got to walk around. You just can't stay on the computer forever.
+#Person2#: Well, I am up to my neck in work. I've got to finish this report. Sarah needs it by noon. I don't want to be scolded if I can't finish my work by the deadline.
+#Person1#: I understand that, but you'd feel better if you took a break, even for just a short while.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.#Person1#: What are you waiting for?#Person2#: Let's take a coffee break, shall we?#Podcast#Person3#Person4#Person5#Person6#Person10#Person8#Person 1#: I wish I could, but I can't. I have a lot of work to do right now.#Inconveniently#PersonOne#:What keeps you so busy? You've been sitting there for hours. You've got to walk around. You just can't stay on the computer forever.#Introject#Person 2#: Well, I am up to my neck in work. Ive got to finish this report. Sarah needs it by noon. I don't want to be scolded if I can’t finish my work by the deadline.#Strategy#Person7#Person: I understand that, but you'd feel better if you took a break, even for just a short while.Summary:</s>","</s><s>Summarize the following conversation.#Person1#: What do you want to do?#Person2#: Let's take a coffee break, shall we?# Person3#Person4#Person5#Person6#Person7#Person3# Person1#? No, I can't. I'm not sure what's going on with you right now. #Person1: What keeps you so busy? You've been sitting there for hours. You've got to walk around. You just can't stay on the computer forever.# Person4#Parallel to the conversation#Person 2#: Well, I am up to my neck in work. I've got a finish this report. Sarah needs it by noon. I don't want to be scolded if I can’t finish my work by the deadline. #ParallelToTheDiscussion#Person 1#: I understand that, but you'd feel better if you took a break, even for just a short while. *Summary:</s>",2.301048994064331,2.2063188552856445,-0.09473013877868652
+"<s>
+Summarize the following conversation.
+
+#Person1#: I'd like to have this cashed, please.
+#Person2#: Please put you name and address here. May I see your passport?
+#Person1#: Yes.
+#Person2#: How would you like it?
+#Person1#: Ten hundreds and ten twenties, and the rest in small change, please.
+#Person2#: OK. Here you are.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.Frequently Asked Questions:============================#Person1#: I'd like to have this cashed, please.========================#Person2#: Please put you name and address here. May I see your passport?========================.============================-============================================================–==========================================================================================================#Person 1#: Yes.==================================================================================================================================================================================================================================================================================[]================================================ ====================================================]================================================‎================================================>================================================—-================================================​Bug#Person: OK. Here you are.======================Summary:================================================</s>","<s>Summarize the following conversation.Patient DescriptionPatient Identity#Person1#: I'd like to have this cashed, please.Patience#Person2#: Please put you name and address here. May I see your passport?Patience-Patient–Patient#Person 1#: Yes.Patients-Patience–Patience[Patience]Patience-[Patience][Patience].Patience_PatienceToken#Person 2#: How would you like it?patience-patience•Patience:Patience.Token# Person1#? Nothing. Here you are.======Summary:Pat</s>",2.386615037918091,2.280505895614624,-0.1061091423034668
+"<s>
+Summarize the following conversation.
+
+#Person1#: Hello. I want to reconfirm our flight to London.
+#Person2#: Yes, sir. Did you call the airline?
+#Person1#: Yes, I did. But I couldn't communicate with them in English. They speak only Spanish. So I need your help.
+#Person2#: Certainly, sir. What is the flight number and when are you leaving?
+#Person1#: We are taking IB 385 to London tomorrow at 1 p. m.
+#Person2#: Oh, I see, sir. We have the airline office inside the hotel. They have an English-speaking staff. Just dial 35, please.
+
+Summary:
+</s>","</s><s>Summarize the following conversation.1.1:48 p.m. ET#Person1#: Hello. I want to reconfirm our flight to London.2.0#Person2#: Yes, sir. Did you call the airline?3.2:49.1# Person1#. Yes, I did. But I couldn't communicate with them in English. They speak only Spanish. So I need your help.3.3:48.1*Person2: What is the flight number and when are you leaving?4.3#Person 1#: We are taking IB 385 to London tomorrow at 1 p. m. ET.5.3*Person 2#: Oh, I see, Sir. We have the airline office inside the hotel. They have an English-speaking staff. Just dial 35, please. 5.5#Summary:</s>","</s><s>Summarize the following conversation.The first conversation:#Person1#: Hello. I want to reconfirm our flight to London. Please dial 35, please.#Person2#: Yes, sir. Did you call the airline?#Person3#: No, sir, I didn't call them. No, I did. But I couldn't communicate with them in English. They speak only Spanish. So I need your help.# Person4#: Oh, yes, sir.?#Person5#: Certainly. What is the flight number and when are you leaving?# Person6#: That's right, sir!#Person7#: We are taking IB 385 to London tomorrow at 1 p. m.Advertisement#Person8#: Yeah.[voiceover]#Person9#Person10#Person11#. Please, please, please call me.Summary:</s>",2.6972224712371826,2.456181526184082,-0.24104094505310059
+"<s>
+Summarize the following conversation.
+
+#Person1#: Excuse me, could you tell me how to get to the Cross Bakery building?
+#Person2#: The Cross Bakery building? Oh sure. You're actually walking in the opposite direction.
+#Person1#: Oh, you're kidding! I thought I was heading east.
+#Person2#: No, east is the other direction. To get to the Bakery, you need to turn around and go three blocks to Broadway. When you get to the intersection of Broadway and Elm, you hang a left. Go straight down that street for half a block and then you'll see the building on your left.
+#Person1#: Okay, let me see if I've got that. I need to go down Elm until I hit Broadway, then I make a left and the building is on my left hand side. Is that right?
+#Person2#: Yeah, you've got it. Do you want me to show you the way?
+#Person1#: Thanks for the offer, but I think I've got it. Hopefully, I won't get lost again on my way there!
+
+Summary:
+</s>","<s>Summarize the following conversation.#Person1#: Okay, let's start with the first question. What's the problem?#Person2#: Excuse me, could you tell me how to get to the Cross Bakery building? Is that the right way to get there? #Person3#Person4#Person5#Person6#Person8#Person9#Person10#Person11#Person12#: Oh, you're kidding! I thought I was heading east. #Person4*#Person 2#: No, east is the other direction. To get to The Bakery, you need to turn around and go three blocks to Broadway. When you get to that intersection of Broadway and Elm, you hang a left. Go straight down that street for half a block and then you'll see the building on your left. That's the left hand side of the building. # Person4# Person5# Person1# said Okay, that's the right hand side. Let me see if I've got that. I need to go down Elm until I hit Broadway, then I make a left and the building is on my left side. Is that right?# Person4*$Person5$Person2*: Yeah, you've got it. Do you want me to show you the way? #MeToo#Person3*$$$&$$+$$#$$%$$@%$#Person</s>","</s><s>Summarize the following conversation. The following conversation took place:#Person1#: Excuse me, could you tell me how to get to the Cross Bakery building?#Person2#: What building is that? What building? Is that where you're going to get there?*#Person3#: I'm going in the opposite direction.#Person4#: Yeah. That's where I'm headed. No, that's not the way.*** * * * ##Person 1#: Oh, you're kidding! I thought I was heading east. Is that the other direction?**** * *#Person 2#: No, east is the other way. To get to The Bakery, you need to turn around and go three blocks to Broadway. When you get to that intersection of Broadway and Elm, you hang a left. Go straight down that street for half a block and then you'll see the building on your left.*# * *</s>",2.408403158187866,2.086949348449707,-0.3214538097381592
